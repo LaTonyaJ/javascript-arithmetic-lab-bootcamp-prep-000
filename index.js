@@ -1,4 +1,3 @@
-add(1, 80){
-  return()
+function add(a,b){
+  return(1 + 80)
 }
-
