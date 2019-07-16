@@ -37,6 +37,6 @@ function preserveDecimal(n){
 }
 
 function preserveDecimal(n){
-  return(nonsense)
+  return parseInt('nonsense!', 10)
 }
 
